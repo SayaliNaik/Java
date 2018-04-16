@@ -2,12 +2,9 @@ import java.util.*;
 import java.io.*;
 
 
-
 class Solution{
     public static void main(String []argh)
     {
-
-
 
         Scanner sc = new Scanner(System.in);
         int t=sc.nextInt();
