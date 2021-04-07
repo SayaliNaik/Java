@@ -21,5 +21,9 @@
             }
             System.out.println(ans);
             
+			if(a==b){
+				break;
+			}
+			
         }
     }
